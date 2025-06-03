@@ -1,4 +1,4 @@
-  # 🚀 **HEY 👋, I'M ARRAY!** 🚀
+<h1 align="center">🚀 HEY 👋, I'M ARRAY! 🚀</h1>
 
 
 
