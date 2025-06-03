@@ -1,2 +1,2 @@
-![GitHub Snake dark](https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake dark](https://raw.githubusercontent.com/kiwi-exe/kiwi-exe/output/github-contribution-grid-snake-dark.svg)
 
