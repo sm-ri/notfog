@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="[https://](https://es.pinterest.com/pin/858920960164572414/)" alt="Cool hacker image" width="250" />
+  <img src="[(https://i.pinimg.com/736x/12/b8/53/12b853d95db92c01d41c8d6bbcf75fb6.jpg)" alt="Cool hacker image" width="250" />
 </p>
 
 ---
