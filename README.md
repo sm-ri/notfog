@@ -1,4 +1,4 @@
-<h1 align="center">🚀 HEY 👋, I'M ARXNET! 🚀</h1>
+<h1 align="center">🚀 HEY 👋, I'M NOTFOG! 🚀</h1>
 <h3 align="center"><em>the quieter you become, the more you are able to hear</em></h3>
 
 ---
