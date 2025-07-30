@@ -33,6 +33,7 @@
 </blockquote>
 
 <h3 align="center">Cool Snake</h3>
+
 <p align="center" style="background-color:#1e1e1e; padding:20px; border-radius:10px; display:inline-block;">
   <img src="https://raw.githubusercontent.com/sm-ri/sm-ri/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
