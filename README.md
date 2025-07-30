@@ -44,8 +44,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sm-ri&show_icons=true&theme=tokyonight&hide_border=true" alt="Samurai's GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sm-ri&theme=tokyonight&hide_border=true" alt="Samurai's GitHub streak" />
-</p>
 
 <hr>
 
