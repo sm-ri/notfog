@@ -4,7 +4,8 @@
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/12/b8/53/12b853d95db92c01d41c8d6bbcf75fb6.jpg" alt="Cool Image" width="400" />
+  <img src="![samurai](https://github.com/user-attachments/assets/ca61ae68-27da-4c68-be34-828170bd9016)()
+" alt="Cool Image" width="400" />
 </p>
 
 ---
