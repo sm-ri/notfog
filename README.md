@@ -32,6 +32,8 @@
   "Appear weak when you are strong, and strong when you are weak." — <strong>Sun Tzu</strong>
 </blockquote>
 
+<hr>
+
 <h3 align="center">Cool Snake</h3>
 
 <p align="center" style="background-color:#1e1e1e; padding:20px; border-radius:10px; display:inline-block;">
