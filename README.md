@@ -6,7 +6,7 @@
 <hr>
 
 <p align="center">
-  <img src="https://i.ibb.co/23bLPv4b/samurai.png" alt="Cool Image" width="400" />
+  <img src="https://i.ibb.co/23bLPv4b/moshy.png" alt="Cool Image" width="400" />
 </p>
 
 <hr>
@@ -57,7 +57,7 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sm-ri&show_icons=true&theme=tokyonight&hide_border=true" alt="Samurai's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sm-ri&show_icons=true&theme=tokyonight&hide_border=true" alt="moshy's GitHub stats" />
 </p>
 
 <hr>
