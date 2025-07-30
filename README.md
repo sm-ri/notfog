@@ -1,13 +1,14 @@
 <h1 align="center">🚀 HEY 👋, I'M SAMURAI! 🚀</h1>
 <h3 align="center"><em>the quieter you become, the more you are able to hear</em></h3>
 
----
+<hr>
 
 <p align="center">
   <img src="https://i.ibb.co/23bLPv4b/samurai.png" alt="Cool Samurai Image" width="400" />
 </p>
 
----
+<hr>
+
 <h3 align="center">Languages I know:</h3>
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -24,9 +25,14 @@
   </a>
 </p>
 
+<hr>
 
-### Cool Snake
+<h3 align="center">Sun Tzu Wisdom</h3>
+<blockquote align="center" style="font-style: italic; max-width: 600px; margin: 0 auto 30px auto;">
+  "Appear weak when you are strong, and strong when you are weak." — <strong>Sun Tzu</strong>
+</blockquote>
 
-<p align="center">
+<h3 align="center">Cool Snake</h3>
+<p align="center" style="background-color:#1e1e1e; padding:20px; border-radius:10px; display:inline-block;">
   <img src="https://raw.githubusercontent.com/sm-ri/sm-ri/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
