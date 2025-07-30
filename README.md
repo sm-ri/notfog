@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="![samurai](https://github.com/user-attachments/assets/ca61ae68-27da-4c68-be34-828170bd9016)()
+  <img src="![samurai]((https://ibb.co/23bLPv4b))()
 " alt="Cool Image" width="400" />
 </p>
 
