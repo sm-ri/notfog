@@ -4,15 +4,13 @@
 ---
 
 <p align="center">
-  <img src="![samurai]((https://ibb.co/23bLPv4b))()
-" alt="Cool Image" width="400" />
+  <img src="https://i.ibb.co/23bLPv4b/samurai.png" alt="Cool Samurai Image" width="400" />
 </p>
 
 ---
 
-### Cool Snake 
+### Cool Snake
 
-![GitHub Snake](https://raw.githubusercontent.com/sm-ri/sm-ri/output/github-contribution-grid-snake-dark.svg)
-
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sm-ri/sm-ri/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
