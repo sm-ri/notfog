@@ -2,6 +2,7 @@
 <blockquote align="center" style="font-style: italic; max-width: 600px; margin: 0 auto 30px auto;">
   "Appear weak when you are strong, and strong when you are weak." — <strong>Sun Tzu</strong>
 </blockquote>
+
 <hr>
 
 <p align="center">
@@ -28,8 +29,46 @@
 
 <hr>
 
-<h3 align="center">Cool Snake</h3>
+<h3 align="center">🛠 Tools I Use:</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VSCode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" style="margin-left:15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" style="margin-left:15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" style="margin-left:15px;" />
+</p>
 
+<hr>
+
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sm-ri&show_icons=true&theme=tokyonight&hide_border=true" alt="Samurai's GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sm-ri&theme=tokyonight&hide_border=true" alt="Samurai's GitHub streak" />
+</p>
+
+<hr>
+
+<h3 align="center">🐍 Cool Snake</h3>
 <p align="center" style="background-color:#1e1e1e; padding:20px; border-radius:10px; display:inline-block;">
   <img src="https://raw.githubusercontent.com/sm-ri/sm-ri/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
+
+<hr>
+
+<h3 align="center">📬 Contact Me</h3>
+<p align="center">
+  <a href="https://discord.com/users/your-id-here">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<hr>
+
+<h3 align="center">🧠 Did You Know?</h3>
+<p align="center" style="font-style: italic;">
+  I once wrote a script that broke 3 VPSs, crashed a Discord server, and got me banned from a Minecraft realm... all before breakfast.
 </p>
