@@ -6,7 +6,8 @@
 <hr>
 
 <p align="center">
-  <img src="https://i.ibb.co/23bLPv4b/moshy.png" alt="Cool Image" width="400" />
+  <img width="474" height="474" alt="071ef43b8a3e3a3e32eba626da61faa9-3770913175" src="https://github.com/user-attachments/assets/1b5707a2-3113-4dd1-a3d2-b3f39afcea96" />
+ Image" width="400" />
 </p>
 
 <hr>
