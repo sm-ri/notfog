@@ -1,4 +1,4 @@
-<h1 align="center">🚀 HEY 👋, I'M SAMURAI! 🚀</h1>
+<h1 align="center">🚀 HEY 👋, I'M Ægir! 🚀</h1>
 <blockquote align="center" style="font-style: italic; max-width: 600px; margin: 0 auto 30px auto;">
   "Appear weak when you are strong, and strong when you are weak." — <strong>Sun Tzu</strong>
 </blockquote>
@@ -6,7 +6,7 @@
 <hr>
 
 <p align="center">
-  <img src="https://i.ibb.co/23bLPv4b/samurai.png" alt="Cool Samurai Image" width="400" />
+  <img src="https://i.ibb.co/23bLPv4b/samurai.png" alt="Cool Image" width="400" />
 </p>
 
 <hr>
