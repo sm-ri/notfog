@@ -1,4 +1,4 @@
-<h1 align="center">🚀 HEY 👋, I'M moshy! 🚀</h1>
+<h1 align="center">🚀 Hey 👋, I'm moshy! 🚀</h1>
 <blockquote align="center" style="font-style: italic; max-width: 600px; margin: 0 auto 30px auto;">
   "Appear weak when you are strong, and strong when you are weak." — <strong>Sun Tzu</strong>
 </blockquote>
