@@ -39,11 +39,26 @@
 
 <hr>
 
+<h3 align="center">🎯 Currently Working On</h3>
+<ul align="center">
+  <li>🔥 <strong>RainBot</strong> – The ultimate Discord bot loaded with moderation, skidding power, and botnet-tier swag.</li>
+  <li>🛡️ <strong>Lockdown</strong> – DDoS detection & protection platform using ML to nuke script kiddies.</li>
+  <li>🌐 <strong>API Market Hub</strong> – RapidAPI clone where devs sell their APIs with stats, keys, and custom portals.</li>
+</ul>
+
+<hr>
+
+<h3 align="center">✨ Anime Mode</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NwZ3kzM3E4bW0zbW10dTBzY2Vsdm5vYTV2ZXE2ZnMweTBrd2R5dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qH1Y8N5UoEcfCMrYbS/giphy.gif" alt="Anime Samurai GIF" width="350" />
+</p>
+
+<hr>
+
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sm-ri&show_icons=true&theme=tokyonight&hide_border=true" alt="Samurai's GitHub stats" />
 </p>
-<p align="center">
 
 <hr>
 
