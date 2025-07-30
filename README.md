@@ -83,5 +83,5 @@
 
 <h3 align="center">🧠 Did You Know?</h3>
 <p align="center" style="font-style: italic;">
-  I once wrote a script that broke 3 VPSs, crashed a Discord server, and got me banned from a Minecraft realm... all before breakfast.
+  I use Copilot for "debugging purposes only".
 </p>
