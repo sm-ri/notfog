@@ -1,4 +1,4 @@
-<h1 align="center">🚀 HEY 👋, I'M NOTFOG! 🚀</h1>
+<h1 align="center">🚀 HEY 👋, I'M SAMURAI! 🚀</h1>
 <h3 align="center"><em>the quieter you become, the more you are able to hear</em></h3>
 
 ---
@@ -11,7 +11,7 @@
 
 ### Cool Snake 
 
-![GitHub Snake](https://raw.githubusercontent.com/kiwi-exe/kiwi-exe/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake](https://raw.githubusercontent.com/sm-ri/sm-ri/output/github-contribution-grid-snake-dark.svg)
 
 
 
