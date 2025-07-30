@@ -48,9 +48,9 @@
 
 <hr>
 
-<h3 align="center">✨ Anime Mode</h3>
+<h3 align="center">✨ pikaaaaachu</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NwZ3kzM3E4bW0zbW10dTBzY2Vsdm5vYTV2ZXE2ZnMweTBrd2R5dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qH1Y8N5UoEcfCMrYbS/giphy.gif" alt="Anime Samurai GIF" width="350" />
+  <img src="https://giphy.com/gifs/pokemon-pikachu-slVWEctHZKvWU" alt="Aesthetic Pool Pikachu" width="350" />
 </p>
 
 <hr>
