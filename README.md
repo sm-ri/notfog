@@ -40,6 +40,13 @@
 
 <hr>
 
+<h3 align="center">🧠 Tech Arsenal</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,html,css,bash,js,ts,react,nodejs,mongodb,git,github,linux,vscode,fastapi" />
+</p>
+
+<hr>
+
 <h3 align="center">🎯 Currently Working On</h3>
 <ul align="center">
   <li>🔥 <strong>RainBot</strong> – The ultimate Discord bot loaded with moderation, fun tools, and an overall great experience.</li>
