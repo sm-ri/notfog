@@ -6,7 +6,7 @@
 <hr>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1b5707a2-3113-4dd1-a3d2-b3f39afcea96" alt="moshy glitch avatar" width="400"/>
+  <img src="https://github.com/user-attachments/assets/1b5707a2-3113-4dd1-a3d2-b3f39afcea96" alt="mochy glitch avatar" width="400"/>
 </p>
 
 <hr>
@@ -64,7 +64,7 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sm-ri&show_icons=true&theme=tokyonight&hide_border=true" alt="moshy's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sm-ri&show_icons=true&theme=tokyonight&hide_border=true" alt="mochy's GitHub stats" />
 </p>
 
 <hr>
