@@ -13,7 +13,7 @@
 
 <h3 align="center">⌨️ Dev Terminal</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F700&center=true&vCenter=true&lines=Fullstack+Developer;Bot+Engineer;AI+Experimenter;Coffee+Fuelled+Madman" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F700&center=true&vCenter=true&lines=Backend+Developer;Bot+Engineer;AI+Experimenter;Coffee+Fuelled+Madman" />
 </p>
 
 <hr>
