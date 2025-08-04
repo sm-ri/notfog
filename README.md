@@ -62,14 +62,14 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sm-ri&show_icons=true&theme=tokyonight&hide_border=true" alt="mochy's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mo-chy&show_icons=true&theme=tokyonight&hide_border=true" alt="mochy's GitHub stats" />
 </p>
 
 <hr>
 
 <h3 align="center">🐍 Cool Snake</h3>
 <p align="center" style="background-color:#1e1e1e; padding:20px; border-radius:10px; display:inline-block;">
-  <img src="https://raw.githubusercontent.com/sm-ri/sm-ri/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/mo-chy/mo-chy/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
 <hr>
